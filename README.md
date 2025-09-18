@@ -48,9 +48,10 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e se
 
 ## 📈 Estatísticas
 <div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessa2121&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bessa2121&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bessa2121&show_icons=true&hide_title=true&count_private=true&theme=dracula" alt="Estatísticas do GitHub"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessa2121&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
 </div>
+
 
   
 ---
