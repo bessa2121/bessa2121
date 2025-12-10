@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:00FF7F&height=120&section=header"/>
 <h1 align="center">👋 Olá, eu sou o Davi Tavares!</h1>
 <p align="center">Estudante de Desenvolvimento de Sistemas | Foco em Back-End | Java & Spring Boot</p>
 
@@ -86,6 +87,7 @@ Estou construindo meu portfólio para conquistar uma **vaga de estágio Back-End
 ## 📫 Contato
 
 <div>
+  
 <a href="https://instagram.com/d.tavrs" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:dxrktavares3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/davi-tavares-038b472a5" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
@@ -94,3 +96,4 @@ Estou construindo meu portfólio para conquistar uma **vaga de estágio Back-End
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil! Sempre evoluindo. 🚀</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:00FF7F&height=120&section=footer"/>
