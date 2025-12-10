@@ -2,7 +2,7 @@
 <p align="center">Estudante de Desenvolvimento de Sistemas | Foco em Back-End | Java & Spring Boot</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Java+%7C+Spring+Boot+%7CReact;Amante+de+tecnologia+e+aprendizado;Construindo+projetos+de+verdade" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Java+%7C+Spring+Boot+%7C+React;Amante+de+tecnologia+e+aprendizado;Construindo+projetos+de+verdade" />
 </p>
 
 ---
