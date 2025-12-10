@@ -1,28 +1,31 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:00FF7F&height=120&section=header"/>
 
-<h1 align="center">👋 Olá, eu sou o <span style="color:#00FFAA">Davi Tavares</span>!</h1>
-<p align="center" style="color:#00FF7F">Estudante de Desenvolvimento de Sistemas | Foco em Back-End | Java & Spring Boot</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&width=300&lines=👋+Hi,+I'm+Davi+Tavares." />
+</h1>
+
+<p align="center" style="color:#00FF7F">Systems Development Student | Focus on Back-End | Java & Spring Boot</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Java+%7C+Spring+Boot+%7C+React;Amante+de+tecnologia+e+aprendizado;Construindo+projetos+de+verdade" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Back-End+Developer;Java+%7C+Spring+Boot+%7C+React;Technology+and+learning+enthusiast;Building+real+projects" />
 </p>
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&width=300&lines=👨‍💻+Sobre+mim" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&width=300&lines=👨‍💻+About+me" />
 
-Sou estudante do curso técnico de **Desenvolvimento de Sistemas (ETEC Prof. Camargo Aranha)**, com foco em Back-End e APIs REST.  
-Participei de **hackathons**, **bootcamps** e do **COMPETEC (USP)**, onde aprimorei lógica, resolução de problemas e trabalho em equipe.
+I am a student of **Systems Development (ETEC Prof. Camargo Aranha)**, focused on Back-End and REST APIs.  
+I have participated in **hackathons**, **bootcamps**, and **COMPETEC (USP)**, where I improved logic, problem-solving, and teamwork skills.
 
-Atualmente desenvolvo **projetos solo** para evoluir em:
+Currently, I develop **solo projects** to grow in:
 - <span style="color:#00FFAA">Java + Spring Boot</span>  
-- <span style="color:#00FFAA">SQL & modelagem</span>  
-- <span style="color:#00FFAA">Boas práticas (Clean Code, SOLID)</span>  
-- <span style="color:#00FFAA">Testes e versionamento</span>
+- <span style="color:#00FFAA">SQL & modeling</span>  
+- <span style="color:#00FFAA">Best practices (Clean Code, SOLID)</span>  
+- <span style="color:#00FFAA">Testing & version control</span>
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&width=300&lines=🚀+Tecnologias+que+estudo" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&width=300&lines=🚀+Technologies+I'm+studying" />
 
 ### 🔧 Back-End 
 <div> 
@@ -38,18 +41,18 @@ Atualmente desenvolvo **projetos solo** para evoluir em:
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
 </div> 
 
-### 🗄️ Bancos de Dados 
+### 🗄️ Databases 
 <div> 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 </div> 
 
-### 📚 Bibliotecas & Frameworks 
+### 📚 Libraries & Frameworks 
 <div> 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
 </div> 
 
-### 🧰 Ferramentas 
+### 🧰 Tools 
 <div>
 <img src="https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -58,25 +61,25 @@ Atualmente desenvolvo **projetos solo** para evoluir em:
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&width=300&lines=🌱+Em+aprendizado" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&width=300&lines=🌱+Currently+Learning" />
 
 - Spring Boot (REST, JPA, Controllers, Services)  
-- SQL e boas práticas de modelagem  
+- SQL and good modeling practices  
 - Clean Code & SOLID  
-- Versionamento com Git  
-- Integração com React  
+- Version control with Git  
+- Integration with React  
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&width=300&lines=🧩+Projetos+em+andamento" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&width=300&lines=🧩+Ongoing+Projects" />
 
-- APIs funcionais com autenticação & CRUD  
-- Sistemas completos para portfólio  
-- Integração futura React + Spring Boot  
+- Functional APIs with authentication & CRUD  
+- Complete systems for portfolio  
+- Future integration React + Spring Boot  
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&width=300&lines=📊+Estatísticas" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&width=300&lines=📊+Statistics" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophia044/Sophia044/output/pacman-contribution-graph-dark.svg">
@@ -86,7 +89,7 @@ Atualmente desenvolvo **projetos solo** para evoluir em:
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&width=300&lines=📫+Contato" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&width=300&lines=📫+Contact" />
 
 <div>
 <a href="https://instagram.com/d.tavrs" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -96,5 +99,5 @@ Atualmente desenvolvo **projetos solo** para evoluir em:
 
 ---
 
-<p align="center" style="color:#00FFAA">✨ Obrigado por visitar meu perfil! Sempre evoluindo. 🚀</p>
+<p align="center" style="color:#00FFAA">✨ Thank you for visiting my profile! Always evolving. 🚀</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:00FF7F&height=120&section=footer"/>
