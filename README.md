@@ -34,19 +34,10 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e se
 
 <div>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</div>
-
----
-
-## 📈 Estatísticas
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bessa2121&show_icons=true&hide_title=true&count_private=true&theme=dracula" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessa2121&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 
-
-  
 ---
 
 ## 🌱 Em aprendizado
