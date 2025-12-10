@@ -74,26 +74,6 @@ Estou construindo meu portfólio para conquistar uma **vaga de estágio Back-End
 
 ---
 
-## 📊 Estatísticas & Animações
-
-<div align="center">
-
-### ⭐ Stats do GitHub
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bessa2121&show_icons=true&theme=transparent" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessa2121&layout=compact&langs_count=7&theme=transparent" />
-
-</div>
-
-<div align="center">
-
-### 🐍 Animação da cobrinha
-
-![snake gif](https://raw.githubusercontent.com/bessa2121/bessa2121/output/github-contribution-grid-snake.svg)
-
-</div>
----
-
 ## 📫 Contato
 
 <div>
