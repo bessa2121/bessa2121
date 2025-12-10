@@ -73,6 +73,15 @@ Estou construindo meu portfólio para conquistar uma **vaga de estágio Back-End
 - Integração futura React + Spring Boot
 
 ---
+## 📊 Estatisticas 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophia044/Sophia044/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sophia044/Sophia044/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sophia044/Sophia044/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ## 📫 Contato
 
