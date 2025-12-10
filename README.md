@@ -83,7 +83,7 @@ Estou construindo meu portfólio para conquistar uma **vaga de estágio Back-End
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davtavares&layout=compact&theme=tokyonight&hide_border=true" />
 
 ### 🐍 Animação da cobra (commits)
-<img src="https://raw.githubusercontent.com/davtavares/davtavares/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/bessa2121/bessa2121/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </div>
 
