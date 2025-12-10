@@ -79,14 +79,19 @@ Estou construindo meu portfólio para conquistar uma **vaga de estágio Back-End
 <div align="center">
 
 ### ⭐ Stats do GitHub
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=davtavares&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davtavares&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 🐍 Animação da cobra (commits)
-<img src="https://raw.githubusercontent.com/bessa2121/bessa2121/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bessa2121&show_icons=true&theme=transparent" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessa2121&layout=compact&langs_count=7&theme=transparent" />
 
 </div>
 
+<div align="center">
+
+### 🐍 Animação da cobrinha
+
+![snake gif](https://raw.githubusercontent.com/bessa2121/bessa2121/output/github-contribution-grid-snake.svg)
+
+</div>
 ---
 
 ## 📫 Contato
