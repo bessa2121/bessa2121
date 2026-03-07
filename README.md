@@ -30,7 +30,6 @@ Currently, I develop **solo projects** to grow in:
 ### 🔧 Back-End 
 <div> 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> 
 </div> 
 
 ### 🎨 Front-End
