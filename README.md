@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-flax-five-31.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-880093?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/davi-tavares-038b472a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -29,6 +33,7 @@ I'm a **Back-End Java developer** studying Systems Development at **ETEC Prof. C
 ```java
 Developer davi = new Developer();
 davi.setName("Davi Tavares Nascimento Bessa");
+davi.setPortfolio("https://portfolio-flax-five-31.vercel.app");
 davi.setFocus("Back-End Java | Spring Boot | Microservices");
 davi.setAchievement("🏆 Champion — Hackathon Startline 2026 (Mileto)");
 davi.setStack(List.of("Java", "Spring Boot", "Docker", "PostgreSQL", "RabbitMQ"));
@@ -168,9 +173,4 @@ Production-style microservices project with two independent services communicati
 
 ---
 
-<p align="center">
-  <i>Open to internship or junior Back-End Java positions — on-site, hybrid or remote.</i><br/>
-  <b>Let's build something great together. 🚀</b>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:880093&height=120&section=footer"/>
+<p align="center"> <i>👇 Check out my <a href="https://portfolio-flax-five-31.vercel.app" target="_blank">Portfolio</a> for more projects! 👇</i><br/> <i>Open to internship or junior Back-End Java positions — on-site, hybrid or remote.</i><br/> <b>Let's build something great together. 🚀</b> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:880093&height=120&section=footer"/>
