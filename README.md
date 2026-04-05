@@ -160,11 +160,6 @@ Production-style microservices project with two independent services communicati
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bessa2121&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=880093&icon_color=880093&text_color=c9d1d9&cache_seconds=1800"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessa2121&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=880093&text_color=c9d1d9&cache_seconds=1800"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=bessa2121&theme=midnight-purple&hide_border=true&background=0d1117&ring=880093&fire=880093&currStreakLabel=880093&sideLabels=c9d1d9&dates=c9d1d9" />
 </p>
 
