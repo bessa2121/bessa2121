@@ -152,7 +152,7 @@ Production-style microservices project with two independent services communicati
 | 🥇 | Hackathon Startline – Game On (Mileto) | **Champion** | 2026 |
 | 🤝 | Hackathon U-Shar | Back-End Developer | 2024 |
 | 💻 | COMPETEC – USP Leste | Competitor (Java) | 2025 |
-| 🏥 | Hospital System – Academic Project | Back-End Developer (Scrum) | ETEC |
+| 🏥 | Hospital System – Academic Project | Back-End Developer (Scrum) | 2025 |
 | 🎓 | USP Leste – PET-SI / COMPETEC | University Extension | 2025 |
 
 ---
