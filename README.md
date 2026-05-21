@@ -34,10 +34,10 @@ I'm a **Back-End Java developer** studying Systems Development at **ETEC Prof. C
 Developer davi = new Developer();
 davi.setName("Davi Tavares Nascimento Bessa");
 davi.setPortfolio("https://portfolio-flax-five-31.vercel.app");
-davi.setFocus("Back-End Java | Spring Boot | Microservices");
+davi.setFocus("Back-End Java | Spring Boot | PostgreSQL");
 davi.setAchievement("🏆 Champion — Hackathon Startline 2026 (Mileto)");
-davi.setStack(List.of("Java", "Spring Boot", "Docker", "PostgreSQL", "RabbitMQ"));
-davi.setCurrentlyLearning(List.of("React", "AWS Cloud"));
+davi.setStack(List.of("Java", "Spring Boot", "Docker", "PostgreSQL"));
+davi.setCurrentlyLearning(List.of("React", "AWS Cloud", "RabbitMQ"));
 davi.setEnglish("Advanced — Kumon certified");
 davi.setAvailable(true); // open to internship or junior position
 ```
@@ -117,6 +117,7 @@ Production-style microservices project with two independent services communicati
 
 ### 🧰 Tools
 <div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -127,7 +128,6 @@ Production-style microservices project with two independent services communicati
 ### 📚 Learning
 <div>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
@@ -150,6 +150,7 @@ Production-style microservices project with two independent services communicati
 | | Event | Role | Year |
 |---|---|---|---|
 | 🥇 | Hackathon Startline – Game On (Mileto) | **Champion** | 2026 |
+| 🥈 | Hackathon ESEG | **Runner-up** | 2026 |
 | 🤝 | Hackathon U-Shar | Back-End Developer | 2024 |
 | 💻 | COMPETEC – USP Leste | Competitor (Java) | 2025 |
 | 🏥 | Hospital System – Academic Project | Back-End Developer (Scrum) | 2025 |
