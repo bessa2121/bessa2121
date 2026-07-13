@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-flax-five-31.vercel.app" target="_blank">
+  <a href="https://portfolio-tavareszdev21.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-880093?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   
@@ -172,4 +172,4 @@ Production-style microservices project with two independent services communicati
 
 ---
 
-<p align="center"> <i>👇 Check out my <a href="https://portfolio-flax-five-31.vercel.app" target="_blank">Portfolio</a> for more projects! 👇</i><br/> <i>Open to internship or junior Back-End Java positions — on-site, hybrid or remote.</i><br/> <b>Let's build something great together. 🚀</b> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:880093&height=120&section=footer"/>
+<p align="center"> <i>👇 Check out my <a href="https://portfolio-tavareszdev21.vercel.app/" target="_blank">Portfolio</a> for more projects! 👇</i><br/> <i>Open to internship or junior Back-End Java positions — on-site, hybrid or remote.</i><br/> <b>Let's build something great together. 🚀</b> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:880093&height=120&section=footer"/>
